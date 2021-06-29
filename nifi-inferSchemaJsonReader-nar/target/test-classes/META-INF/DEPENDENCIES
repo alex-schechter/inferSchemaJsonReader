@@ -1,0 +1,171 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-inferSchemaJsonReader-nar
+
+
+From: 'an unknown organization'
+  - BCrypt Password Hashing Function (https://github.com/patrickfav/bcrypt/modules/bcrypt) at.favre.lib:bcrypt:bundle:0.9.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Bytes Utility Library (https://github.com/patrickfav/bytes-java) at.favre.lib:bytes:bundle:1.3.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Caffeine cache (https://github.com/ben-manes/caffeine) com.github.ben-manes.caffeine:caffeine:jar:2.8.1
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - FindBugs-jsr305 (http://findbugs.sourceforge.net/) com.google.code.findbugs:jsr305:jar:3.0.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Gson (https://github.com/google/gson/gson) com.google.code.gson:gson:jar:2.8.7
+    License: Apache 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - error-prone annotations (http://nexus.sonatype.org/oss-repository-hosting.html/error_prone_parent/error_prone_annotations) com.google.errorprone:error_prone_annotations:jar:2.3.4
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Guava InternalFutureFailureAccess and InternalFutures (https://github.com/google/guava/failureaccess) com.google.guava:failureaccess:bundle:1.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Guava: Google Core Libraries for Java (https://github.com/google/guava/guava) com.google.guava:guava:bundle:27.0.1-jre
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Guava ListenableFuture only (https://github.com/google/guava/listenablefuture) com.google.guava:listenablefuture:jar:9999.0-empty-to-avoid-conflict-with-guava
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - J2ObjC Annotations (https://github.com/google/j2objc/) com.google.j2objc:j2objc-annotations:jar:1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - project ':json-path' (https://github.com/jayway/JsonPath) com.jayway.jsonpath:json-path:jar:2.4.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - ParaNamer Core (http://paranamer.codehaus.org/paranamer) com.thoughtworks.paranamer:paranamer:bundle:2.7
+    License: BSD  (LICENSE.txt)
+  - Java Grok (https://github.com/thekrakken/java-grok) io.krakens:java-grok:jar:0.1.9
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - StAX Utilities Project (http://java.net/projects/stax-utils/) net.java.dev.stax-utils:stax-utils:jar:20070216
+    License: BSD  (http://www.opensource.org/licenses/bsd-license.html)
+  - opencsv (http://opencsv.sf.net) net.sf.opencsv:opencsv:jar:2.3
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs (http://www.bouncycastle.org/java.html) org.bouncycastle:bcpkix-jdk15on:jar:1.68
+    License: Bouncy Castle Licence  (http://www.bouncycastle.org/licence.html)
+  - Bouncy Castle Provider (http://www.bouncycastle.org/java.html) org.bouncycastle:bcprov-jdk15on:jar:1.68
+    License: Bouncy Castle Licence  (http://www.bouncycastle.org/licence.html)
+  - Checker Qual (https://checkerframework.org) org.checkerframework:checker-qual:jar:3.1.0
+    License: The MIT License  (http://opensource.org/licenses/MIT)
+  - Kite Data Core Module (http://kitesdk.org//kite-data/kite-data-core) org.kitesdk:kite-data-core:jar:1.1.0
+    License: Apache Software License v2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Kite Hadoop Compatibility Module (http://kitesdk.org//kite-hadoop-compatibility) org.kitesdk:kite-hadoop-compatibility:jar:1.1.0
+    License: Apache Software License v2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - XZ for Java (http://tukaani.org/xz/java.html) org.tukaani:xz:jar:1.5
+    License: Public Domain 
+
+From: 'ANTLR' (http://www.antlr.org)
+  - ANTLR 4 Runtime (http://www.antlr.org/antlr4-runtime) org.antlr:antlr4-runtime:jar:4.7.2
+    License: The BSD License  (http://www.antlr.org/license.html)
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+  - nifi-inferSchemaJsonReader (https://nifi.apache.org/nifi-nar-bundles/inferSchemaJsonReader/nifi-inferSchemaJsonReader) alex.schechter:nifi-inferSchemaJsonReader:jar:1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-inferSchemaJsonReader-api (https://nifi.apache.org/nifi-nar-bundles/inferSchemaJsonReader/nifi-inferSchemaJsonReader-api) alex.schechter:nifi-inferSchemaJsonReader-api:jar:1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-inferSchemaJsonReader-api-nar (https://nifi.apache.org/nifi-nar-bundles/inferSchemaJsonReader/nifi-inferSchemaJsonReader-api-nar) alex.schechter:nifi-inferSchemaJsonReader-api-nar:nar:1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-avro-record-utils (https://nifi.apache.org/nifi-nar-bundles/nifi-extension-utils/nifi-record-utils/nifi-avro-record-utils) org.apache.nifi:nifi-avro-record-utils:jar:1.12.1
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-processor-utils (https://nifi.apache.org/nifi-nar-bundles/nifi-extension-utils/nifi-processor-utils) org.apache.nifi:nifi-processor-utils:jar:1.12.1
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-record-serialization-services (https://nifi.apache.org/nifi-nar-bundles/nifi-standard-services/nifi-record-serialization-services-bundle/nifi-record-serialization-services) org.apache.nifi:nifi-record-serialization-services:jar:1.12.1
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-security-utils (https://nifi.apache.org/nifi-commons/nifi-security-utils) org.apache.nifi:nifi-security-utils:jar:1.12.1
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-standard-record-utils (https://nifi.apache.org/nifi-nar-bundles/nifi-extension-utils/nifi-record-utils/nifi-standard-record-utils) org.apache.nifi:nifi-standard-record-utils:jar:1.12.1
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-syslog-utils (https://nifi.apache.org/nifi-nar-bundles/nifi-extension-utils/nifi-syslog-utils) org.apache.nifi:nifi-syslog-utils:jar:1.12.1
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-utils (https://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:1.12.1
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'Chemouni Uriel' (http://www.minidev.net/)
+  - ASM based accessors helper used by json-smart (http://www.minidev.net/) net.minidev:accessors-smart:bundle:1.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - JSON Small and Fast Parser (http://www.minidev.net/) net.minidev:json-smart:bundle:2.3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'FasterXML' (http://fasterxml.com)
+  - Jackson (http://jackson.codehaus.org) org.codehaus.jackson:jackson-core-asl:jar:1.9.13
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Data Mapper for Jackson (http://jackson.codehaus.org) org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'FasterXML' (http://fasterxml.com/)
+  - Jackson-annotations (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-annotations:bundle:2.7.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-core (https://github.com/FasterXML/jackson-core) com.fasterxml.jackson.core:jackson-core:bundle:2.7.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - jackson-databind (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-databind:bundle:2.7.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-dataformat-CSV (https://github.com/FasterXML/jackson-dataformats-text) com.fasterxml.jackson.dataformat:jackson-dataformat-csv:bundle:2.9.10
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'MojoHaus' (http://www.mojohaus.org)
+  - Animal Sniffer Annotations (http://www.mojohaus.org/animal-sniffer/animal-sniffer-annotations) org.codehaus.mojo:animal-sniffer-annotations:jar:1.17
+    License: MIT license  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'ObjectWeb' (http://www.objectweb.org/)
+  - ASM Core (http://asm.objectweb.org/asm/) org.ow2.asm:asm:jar:5.0.4
+    License: BSD  (http://asm.objectweb.org/license.html)
+
+From: 'Oracle' (http://www.oracle.com)
+  - JavaBeans Activation Framework (http://java.net/all/javax.activation/) com.sun.activation:javax.activation:jar:1.2.0
+    License: CDDL/GPLv2+CE  (https://github.com/javaee/activation/blob/master/LICENSE.txt)
+
+From: 'Oracle Corporation' (http://www.oracle.com/)
+  - Old JAXB Core (http://jaxb.java.net/jaxb-bundles/jaxb-core) com.sun.xml.bind:jaxb-core:jar:2.3.0
+    License: CDDL+GPL License  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)
+  - Old JAXB Runtime (http://jaxb.java.net/jaxb-bundles/jaxb-impl) com.sun.xml.bind:jaxb-impl:jar:2.3.0
+    License: CDDL+GPL License  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)
+  - jaxb-api (https://github.com/javaee/jaxb-spec/jaxb-api) javax.xml.bind:jaxb-api:jar:2.3.0
+    License: CDDL 1.1  (https://oss.oracle.com/licenses/CDDL+GPL-1.1)    License: GPL2 w/ CPE  (https://oss.oracle.com/licenses/CDDL+GPL-1.1)
+
+From: 'palindromicity' (https://github.com/palindromicity)
+  - simple-syslog-5424  com.github.palindromicity:simple-syslog-5424:jar:0.0.13
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Parquet Avro (Incubating) (https://parquet.incubator.apache.org) com.twitter:parquet-avro:jar:1.6.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Parquet Column (Incubating) (https://parquet.incubator.apache.org) com.twitter:parquet-column:jar:1.6.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Parquet Common (Incubating) (https://parquet.incubator.apache.org) com.twitter:parquet-common:jar:1.6.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Parquet Encodings (Incubating) (https://parquet.incubator.apache.org) com.twitter:parquet-encoding:jar:1.6.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Parquet Format (Incubating) (http://parquet.incubator.apache.org/) com.twitter:parquet-format:jar:2.2.0-rc1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Parquet Generator (Incubating) (https://parquet.incubator.apache.org) com.twitter:parquet-generator:jar:1.6.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Parquet Hadoop (Incubating) (https://parquet.incubator.apache.org) com.twitter:parquet-hadoop:jar:1.6.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Parquet Jackson (Incubating) (https://parquet.incubator.apache.org) com.twitter:parquet-jackson:jar:1.6.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Logging (http://commons.apache.org/logging) commons-logging:commons-logging:jar:1.1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Avro (http://avro.apache.org) org.apache.avro:avro:bundle:1.8.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Compress (http://commons.apache.org/proper/commons-compress/) org.apache.commons:commons-compress:jar:1.8.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons JEXL (http://commons.apache.org/jexl/) org.apache.commons:commons-jexl:jar:2.1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - Apache Commons Codec (https://commons.apache.org/proper/commons-codec/) commons-codec:commons-codec:jar:1.14
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons IO (http://commons.apache.org/proper/commons-io/) commons-io:commons-io:jar:2.6
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Configuration (https://commons.apache.org/proper/commons-configuration/) org.apache.commons:commons-configuration2:jar:2.7
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons CSV (https://commons.apache.org/proper/commons-csv/) org.apache.commons:commons-csv:jar:1.8
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Lang (http://commons.apache.org/proper/commons-lang/) org.apache.commons:commons-lang3:jar:3.9
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Text (https://commons.apache.org/proper/commons-text) org.apache.commons:commons-text:jar:1.8
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'xerial.org'
+  - snappy-java (https://github.comm/xerial/snappy-java) org.xerial.snappy:snappy-java:bundle:1.1.1.3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

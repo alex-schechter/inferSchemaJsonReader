@@ -1,0 +1,3 @@
+/home/alex/Documents/nifi/nifi-custom-controller/inferSchemaJsonReader/nifi-inferSchemaJsonReader/src/main/java/alex/schechter/controllers/CustomSchemaRegistryService.java
+/home/alex/Documents/nifi/nifi-custom-controller/inferSchemaJsonReader/nifi-inferSchemaJsonReader/src/main/java/alex/schechter/controllers/JsonInferRowRecordReader.java
+/home/alex/Documents/nifi/nifi-custom-controller/inferSchemaJsonReader/nifi-inferSchemaJsonReader/src/main/java/alex/schechter/controllers/StandardJsonInfer.java
